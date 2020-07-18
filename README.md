@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working as Application Developer @ ThoughtWorks
 - 🌱 I’m currently learning Flutter
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about Java, Spring boot
 - 📫 How to reach me: amitbhave10@gmail.com
 - 😄 Pronouns: He/His
