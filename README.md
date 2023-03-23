@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as Application Developer @ ThoughtWorks
+- 🔭 I’m currently working as Senior Engineer @ Getir
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on Flutter projects/ open source flutter libraries.
 - 💬 Ask me about Java, Spring boot
