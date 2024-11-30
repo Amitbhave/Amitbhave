@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as Senior Engineer @ Getir
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on Flutter projects/ open source flutter libraries.
+- 🔭 I’m currently working as Senior Software Engineer @ Microsoft
+- 🌱 I’m currently learning Golang
 - 💬 Ask me about Java, Spring boot
 - 📫 How to reach me: amitbhave10@gmail.com
 
